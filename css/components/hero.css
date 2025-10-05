@@ -37,30 +37,3 @@
     display: flex;
     gap: 1rem;
 }
-
-.btn {
-    font-size: 1.25rem;
-    width: 161px;
-    height: 48px;
-    border-radius: 25px;
-    color: #ffffff;
-    font-weight: 400;
-    padding: 10px 20px;
-    transition: background-color 0.3s, color 0.3s;
-}
-
-.btn-outline {
-    border: 2px solid #ffffff;
-    background-color: transparent;
-    line-height: 23px;
-}
-
-.btn-filled {
-    background-color: #ffffff;
-    color: #6329A2;
-}
-
-.btn:hover {
-    background-color: #6329A2;
-    color: #ffffff;
-}
