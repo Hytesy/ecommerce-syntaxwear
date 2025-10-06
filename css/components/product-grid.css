@@ -46,6 +46,7 @@
         "highlight      highlight      model          sneaker-color"
         "sneaker-white  sneaker-white  model          sneaker-gray";
     gap: 1.875rem;
+    padding: 40px 0;
 }
 
 .top1-content {
