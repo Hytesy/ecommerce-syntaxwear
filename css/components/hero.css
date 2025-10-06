@@ -3,6 +3,7 @@
     background: url('../../images/banners/hero.jpg') no-repeat center center / cover;
     height: 500px;
     position: relative;
+    border-radius: 20px;
 }
 
 .hero-overlay {
