@@ -5,7 +5,7 @@
     flex-wrap: wrap;
     justify-content: center;
     padding: 40px;
-    gap: 30px;
+    gap: 1.875rem;
 }
 
 .category-card {
